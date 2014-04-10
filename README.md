@@ -1,4 +1,4 @@
-GoogleAnaltyicsManagmentAPIDotNet
+Google Analytics Management API .Net
 =================================
 
 Sample project for working with the Google Analytics Management API in C# .net
